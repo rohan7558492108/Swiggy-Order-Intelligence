@@ -51,3 +51,5 @@
   - 10K Total Customers
   - 100K Total Orders
   - 16M Restaurant Revenue
+    
+![image](https://github.com/user-attachments/assets/42b555a6-90d3-43e8-b72e-92c3bfbe3241)
